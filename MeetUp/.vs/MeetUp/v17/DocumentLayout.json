@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|c:\\users\\ca.r214.19\\desktop\\kamilmeet\\meetup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|c:\\users\\ca.r214.19\\desktop\\kamilmeet\\meetup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\dal\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:dal\\meetupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|c:\\users\\ca.r214.19\\desktop\\kamilmeet\\meetup\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|c:\\users\\ca.r214.19\\desktop\\kamilmeet\\meetup\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE90041B-405F-4069-9E62-9AAA8451C7E3}|MeetUp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:24:17.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:25:01.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:02:18.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:35:57.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:35:47.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetUpContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\DAL\\MeetUpContext.cs",
+              "RelativeDocumentMoniker": "DAL\\MeetUpContext.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\DAL\\MeetUpContext.cs",
+              "RelativeToolTip": "DAL\\MeetUpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:33:55.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T05:12:00.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:44:09.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T04:50:21.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAwwHgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:01:12.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T08:00:08.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:12:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T07:25:33.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T06:52:33.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ca.r214.19\\Desktop\\KamilMEEt\\MeetUp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:38:16.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
